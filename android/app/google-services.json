@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246530822614",
+    "project_id": "hqc-app-27eef",
+    "storage_bucket": "hqc-app-27eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246530822614:android:33165a610199f9b1bf1477",
+        "android_client_info": {
+          "package_name": "com.example.hqc_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246530822614-o6q6rbmhgfohs1jjvf3nkau8knejofsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1eKNxygMLLhlCEIEgseyHwKdjJIJ40C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246530822614-o6q6rbmhgfohs1jjvf3nkau8knejofsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

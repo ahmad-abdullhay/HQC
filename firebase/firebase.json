@@ -1,0 +1,10 @@
+{
+  "firestore": {
+    "rules": "aa",
+    "indexes": "firestore.indexes.json"
+  },
+  "functions": {
+    "predeploy": [
+    ]
+  }
+}
